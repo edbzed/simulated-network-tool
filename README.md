@@ -1,5 +1,7 @@
 # Network Topology Scanner
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![React](https://img.shields.io/badge/React-18.3-blue?logo=react)](https://reactjs.org/)  [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue?logo=typescript)](https://www.typescriptlang.org/)  [![Vite](https://img.shields.io/badge/Vite-5.4-blue?logo=vite)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4-blue?logo=tailwind-css)](https://tailwindcss.com/)
+
 A React-based educational simulation tool that demonstrates network monitoring concepts through interactive visualizations. This application simulates network device discovery, port scanning, and topology mapping to provide a safe environment for learning about network infrastructure.
 
 ## Features
@@ -10,7 +12,9 @@ A React-based educational simulation tool that demonstrates network monitoring c
 - **Service Detection**: Simulated service and version detection for open ports
 - **Live Metrics**: Monitor simulated network performance metrics
 
-## Technical Stack
+![Network](public/images/network.png)
+
+## Technology Stack
 
 The application is built with modern web technologies:
 
